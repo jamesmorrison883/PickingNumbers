@@ -1,0 +1,16 @@
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\PickingNumbers\bin\Debug\net5.0\PickingNumbers.exe
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\PickingNumbers\bin\Debug\net5.0\PickingNumbers.deps.json
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\PickingNumbers\bin\Debug\net5.0\PickingNumbers.runtimeconfig.json
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\PickingNumbers\bin\Debug\net5.0\PickingNumbers.runtimeconfig.dev.json
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\PickingNumbers\bin\Debug\net5.0\PickingNumbers.dll
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\PickingNumbers\bin\Debug\net5.0\ref\PickingNumbers.dll
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\PickingNumbers\bin\Debug\net5.0\PickingNumbers.pdb
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\PickingNumbers\obj\Debug\net5.0\PickingNumbers.csproj.AssemblyReference.cache
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\PickingNumbers\obj\Debug\net5.0\PickingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\PickingNumbers\obj\Debug\net5.0\PickingNumbers.AssemblyInfoInputs.cache
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\PickingNumbers\obj\Debug\net5.0\PickingNumbers.AssemblyInfo.cs
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\PickingNumbers\obj\Debug\net5.0\PickingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\PickingNumbers\obj\Debug\net5.0\PickingNumbers.dll
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\PickingNumbers\obj\Debug\net5.0\ref\PickingNumbers.dll
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\PickingNumbers\obj\Debug\net5.0\PickingNumbers.pdb
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\PickingNumbers\obj\Debug\net5.0\PickingNumbers.genruntimeconfig.cache
